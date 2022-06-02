@@ -11,4 +11,3 @@ echo "Done, status is: "
 git status
 
 echo "That saved hell a lot of typing labour >_<"
-
