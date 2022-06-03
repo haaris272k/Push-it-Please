@@ -11,4 +11,4 @@ git push
 echo "Done, status is: "
 git status
 echo off
-echo "That saved hell a lot of typing labour >_<"
+echo That saved hell a lot of typing labour >_<
